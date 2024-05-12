@@ -1,0 +1,39 @@
+.container-extend {
+    max-width: 747px;
+    max-height: 356px;
+    margin: 100px auto;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+  }
+
+ 
+  
+  .btn-extend {
+    border: 1px solid #000;
+  }
+  
+  .heading{
+      padding: 20px;
+  }
+  
+  .icon-extend{
+      margin: 0 10px 3px 0;
+      padding: 0;
+  }
+  
+  .content-box {
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 16px 8px 0px #21252926;
+  
+  }
+  
+
+  
+  
